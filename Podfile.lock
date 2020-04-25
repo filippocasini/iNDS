@@ -19,13 +19,12 @@ DEPENDENCIES:
   - UnrarKit (~> 2.6)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - FileMD5Hash
+    - ObjectiveDropboxOfficial
     - SCLAlertView-Objective-C
     - SDWebImage
     - UnrarKit
-  trunk:
-    - ObjectiveDropboxOfficial
 
 EXTERNAL SOURCES:
   MHWDirectoryWatcher:
@@ -47,4 +46,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 010e4a2ea2f81f47d3a977a5cd4460be257423d0
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.1
