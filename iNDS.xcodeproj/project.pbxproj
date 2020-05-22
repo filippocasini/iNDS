@@ -4116,7 +4116,7 @@
 						ProvisioningStyle = Automatic;
 					};
 					BFCFE0EE1764FBD3000A70CF = {
-						DevelopmentTeam = 98F98CW4KJ;
+						DevelopmentTeam = Q253WCBBLJ;
 					};
 				};
 			};
@@ -4770,7 +4770,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1.6.0;
-				DEVELOPMENT_TEAM = 98F98CW4KJ;
+				DEVELOPMENT_TEAM = Q253WCBBLJ;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4796,7 +4796,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.iNDS;
+				PRODUCT_BUNDLE_IDENTIFIER = genomedics.filippocasini.iNDS;
 				PRODUCT_NAME = iNDS;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -4819,7 +4819,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1.6.0;
-				DEVELOPMENT_TEAM = 98F98CW4KJ;
+				DEVELOPMENT_TEAM = Q253WCBBLJ;
 				ENABLE_TESTABILITY = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4845,7 +4845,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.iNDS;
+				PRODUCT_BUNDLE_IDENTIFIER = genomedics.filippocasini.iNDS;
 				PRODUCT_NAME = iNDS;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
